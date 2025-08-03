@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj": {
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj",
         "projectName": "RssJobParserApi",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

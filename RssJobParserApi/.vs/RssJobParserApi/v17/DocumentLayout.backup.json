@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\services\\rssservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\rss parser\\rss-parser\\rssjobparserapi\\rssjobparserapi\\services\\rssservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\services\\rssservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\services\\geocodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\services\\geocodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\services\\igeocodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\services\\igeocodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\services\\irssservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\services\\irssservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\models\\jobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\rss parser\\rss-parser\\rssjobparserapi\\rssjobparserapi\\models\\jobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\models\\jobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|c:\\users\\dell\\onedrive\\desktop\\bayt\\rssjobparserapi\\rssjobparserapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{717A1BD8-3C64-4554-BE36-E262B5A5E384}|RssJobParserApi\\RssJobParserApi.csproj|solutionrelative:rssjobparserapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RssService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\Services\\RssService.cs",
+              "RelativeDocumentMoniker": "RssJobParserApi\\Services\\RssService.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\Services\\RssService.cs",
+              "RelativeToolTip": "RssJobParserApi\\Services\\RssService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:04:11.299Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -51,105 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RssService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\RssService.cs",
-              "RelativeDocumentMoniker": "RssJobParserApi\\Services\\RssService.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\RssService.cs",
-              "RelativeToolTip": "RssJobParserApi\\Services\\RssService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAtwCgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T15:37:45.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRssService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\IRssService.cs",
-              "RelativeDocumentMoniker": "RssJobParserApi\\Services\\IRssService.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\IRssService.cs",
-              "RelativeToolTip": "RssJobParserApi\\Services\\IRssService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T15:36:38.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Program.cs",
-              "RelativeDocumentMoniker": "RssJobParserApi\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Program.cs",
-              "RelativeToolTip": "RssJobParserApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T16:00:52.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeocodingService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\GeocodingService.cs",
-              "RelativeDocumentMoniker": "RssJobParserApi\\Services\\GeocodingService.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\GeocodingService.cs",
-              "RelativeToolTip": "RssJobParserApi\\Services\\GeocodingService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T15:58:24.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IGeocodingService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\IGeocodingService.cs",
-              "RelativeDocumentMoniker": "RssJobParserApi\\Services\\IGeocodingService.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Services\\IGeocodingService.cs",
-              "RelativeToolTip": "RssJobParserApi\\Services\\IGeocodingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T15:57:57.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JobsController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Controllers\\JobsController.cs",
-              "RelativeDocumentMoniker": "RssJobParserApi\\Controllers\\JobsController.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Controllers\\JobsController.cs",
-              "RelativeToolTip": "RssJobParserApi\\Controllers\\JobsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T15:02:05.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "JobModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Models\\JobModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\Models\\JobModel.cs",
               "RelativeDocumentMoniker": "RssJobParserApi\\Models\\JobModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\Models\\JobModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\Models\\JobModel.cs",
               "RelativeToolTip": "RssJobParserApi\\Models\\JobModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T15:34:34.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\appsettings.json",
-              "RelativeDocumentMoniker": "RssJobParserApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\appsettings.json",
-              "RelativeToolTip": "RssJobParserApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-01T16:04:26.878Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+VaZdPfOJA=",
+  "dgSpecHash": "vKZj1CEOQuA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Bayt\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Rss Parser\\RSS-Parser\\RssJobParserApi\\RssJobParserApi\\RssJobParserApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",

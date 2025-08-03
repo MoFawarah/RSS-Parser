@@ -70,3 +70,40 @@ C:\Users\DELL\OneDrive\Desktop\Bayt\RssJobParserApi\RssJobParserApi\obj\Debug\ne
 C:\Users\DELL\OneDrive\Desktop\Bayt\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.pdb
 C:\Users\DELL\OneDrive\Desktop\Bayt\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\Bayt\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\ref\RssJobParserApi.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\RssJobParserApi.staticwebassets.endpoints.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\RssJobParserApi.exe
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\RssJobParserApi.deps.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\RssJobParserApi.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\RssJobParserApi.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\RssJobParserApi.pdb
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\scopedcss\bundle\RssJobParserApi.styles.css
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets\msbuild.RssJobParserApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets\msbuild.RssJobParserApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RssJobParserApi.props
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RssJobParserApi.props
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RssJobParserApi.props
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobPa.72D49D70.Up2Date
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\refint\RssJobParserApi.dll
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.pdb
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\RssJobParserApi.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Rss Parser\RSS-Parser\RssJobParserApi\RssJobParserApi\obj\Debug\net8.0\ref\RssJobParserApi.dll

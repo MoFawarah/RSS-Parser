@@ -1,9 +1,19 @@
 async function fetchJobs() {
-  const res = await fetch("http://localhost:5150/api/Jobs");
-  const jobs = await res.json();
-  populateTable(jobs);
-  drawMap(jobs);
+  const spinner = document.getElementById("spinner");
+  spinner.style.display = "block";
+
+  try {
+    const res = await fetch("http://localhost:5150/api/Jobs");
+    const jobs = await res.json();
+    populateTable(jobs);
+    drawMap(jobs);
+  } catch (error) {
+    console.error("Error fetching jobs:", error);
+  } finally {
+    spinner.style.display = "none"; 
+  }
 }
+
 
 function populateTable(jobs) {
   const tbody = document.querySelector("#jobsTable tbody");
