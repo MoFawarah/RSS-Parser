@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "RssJobParserApi.Controllers.JobsController",
+    "Method": "getAllJobs",
+    "RelativePath": "api/Jobs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

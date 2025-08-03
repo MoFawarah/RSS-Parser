@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0VQmV6tAjjh17oy7r64PLiT2CYzJ1OhDQVSeQj3QNKU=",
+  "Source": "RssJobParserApi",
+  "BasePath": "_content/RssJobParserApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

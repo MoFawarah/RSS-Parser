@@ -1,0 +1,6 @@
+@RssJobParserApi_HostAddress = http://localhost:5150
+
+GET {{RssJobParserApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
